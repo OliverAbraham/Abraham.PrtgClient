@@ -92,3 +92,13 @@ https://github.com/OliverAbraham/Abraham.PrtgClient
 The Nuget Package is hosted at: 
 
 https://www.nuget.org/packages/Abraham.PrtgClient
+
+
+
+## SCREENSHOTS
+
+Based on this example PRTG infrastructure:
+![](screenshot2.png)
+
+the demo project will read out the sensor tree like this:
+![](screenshot1.png)

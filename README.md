@@ -107,4 +107,4 @@ the demo project will read out the sensor tree like this:
 # MAKE A DONATION !
 
 If you find this application useful, buy me a coffee!
-I would appreciate a small donation on https://www.buymeacoffee.com
+I would appreciate a small donation on https://www.buymeacoffee.com/oliverabraham

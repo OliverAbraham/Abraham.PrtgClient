@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.32916.344
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abraham.PrtgClient", "Abraham.PrtgClient\Abraham.PrtgClient.csproj", "{4B5C0220-423A-4296-8494-E9F21D2AEE72}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abraham.PrtgClient.Demo", "Abraham.PrtgClient.Demo\Abraham.PrtgClient.Demo.csproj", "{5349915C-D0E9-498D-BE48-008BF6D47EE7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projektmappenelemente", "Projektmappenelemente", "{3B6E3FD4-5E54-4B07-ACB7-87CD8F3A56AF}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE.txt = LICENSE.txt
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Screenshots", "Screenshots", "{1194D51E-C4BC-4BCA-9A97-5F8448AD00CD}"
+	ProjectSection(SolutionItems) = preProject
+		Screenshots\screenshot1.png = Screenshots\screenshot1.png
+		Screenshots\screenshot2.png = Screenshots\screenshot2.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B5C0220-423A-4296-8494-E9F21D2AEE72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B5C0220-423A-4296-8494-E9F21D2AEE72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B5C0220-423A-4296-8494-E9F21D2AEE72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B5C0220-423A-4296-8494-E9F21D2AEE72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5349915C-D0E9-498D-BE48-008BF6D47EE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5349915C-D0E9-498D-BE48-008BF6D47EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5349915C-D0E9-498D-BE48-008BF6D47EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5349915C-D0E9-498D-BE48-008BF6D47EE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E32E08AA-E1D1-4829-B97F-2E4D764536F8}
+	EndGlobalSection
+EndGlobal

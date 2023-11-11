@@ -1,5 +1,9 @@
 # Abraham.PrtgClient
 
+![](https://img.shields.io/github/downloads/oliverabraham/Abraham.PrtgClient/total) ![](https://img.shields.io/github/license/oliverabraham/Abraham.PrtgClient) ![](https://img.shields.io/github/languages/count/oliverabraham/Abraham.PrtgClient) ![GitHub Repo stars](https://img.shields.io/github/stars/oliverabraham/Abraham.PrtgClient?label=repo%20stars) ![GitHub Repo stars](https://img.shields.io/github/stars/oliverabraham?label=user%20stars)
+
+
+
 ## OVERVIEW
 
 Connects to a PRTG server and read the sensor tree, including the sensor values.
@@ -108,3 +112,6 @@ the demo project will read out the sensor tree like this:
 
 If you find this application useful, buy me a coffee!
 I would appreciate a small donation on https://www.buymeacoffee.com/oliverabraham
+
+<a href="https://www.buymeacoffee.com/app/oliverabraham" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
